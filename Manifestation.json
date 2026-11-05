@@ -1,0 +1,15 @@
+{
+  "name": "Natural Thinkings - HP Wine Blog",
+  "short_name": "NaturalThinkings",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#2e7d32",
+  "description": "Le blog Natural Thinkings de Thomas Hemmeler : haut potentiel, TDAH, vin et pensees libres.",
+  "icons": [
+    {"src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
